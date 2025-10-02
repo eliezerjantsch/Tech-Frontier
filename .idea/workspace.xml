@@ -4,14 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93465c1d-5117-41c8-ae8b-64a98794b588" name="Changes" comment="" />
+    <list default="true" id="93465c1d-5117-41c8-ae8b-64a98794b588" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/conta.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/conta.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/jogue.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/jogue.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/material.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/material.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/sobre.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/sobre.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Tech Frontier" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -25,8 +32,9 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/eliezer/Documentos/Tech Frontier"
   }
